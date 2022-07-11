@@ -3,27 +3,37 @@
         {
             "id": "2b7dcc26-4686-4dee-b176-bd656943fa4c",
             "imageUrl": "https://picsum.photos/seed/2b7dcc26-4686-4dee-b176-bd656943fa4c/600/900",
-            "name": "Chanel Leach"
+            "name": "Chanel Leach",
+            "age": 20,
+            "email": "chanel.leach@fake.it"
         },
         {
             "id": "8a395091-c850-4d8f-817a-459a53322acb",
             "imageUrl": "https://picsum.photos/seed/8a395091-c850-4d8f-817a-459a53322acb/600/900",
-            "name": "Sophia Finnegan"
+            "name": "Sophia Finnegan",
+            "age": null,
+            "email": "sophia.finnegan@fake.it"
         },
         {
             "id": "b9bc4b3a-5e1e-4e9a-a1dc-b1d1f52e1763",
-            "imageUrl": "https://picsum.photos/seed/b9bc4b3a-5e1e-4e9a-a1dc-b1d1f52e1763/600/900",
-            "name": "Jan Cortez"
+            "imageUrl": null,
+            "name": "Jan Cortez",
+            "age": 41,
+            "email": "jan.cortez@fake.it"
         },
         {
             "id": "cfc0ebc6-3c33-46d5-90cc-6866a55b41b5",
             "imageUrl": "https://picsum.photos/seed/cfc0ebc6-3c33-46d5-90cc-6866a55b41b5/600/900",
-            "name": "Maxine Santiago"
+            "name": "Maxine Santiago",
+            "age": 83,
+            "email": "maxine.santiago@fake.it"
         },
         {
             "id": "b78ccc6f-3f07-4631-b6ff-ff8f76601dff",
             "imageUrl": "https://picsum.photos/seed/b78ccc6f-3f07-4631-b6ff-ff8f76601dff/600/900",
-            "name": "Eoin Steele"
+            "name": "Eoin Steele",
+            "age": 45,
+            "email": "eoin.steele@fake.it"
         }
     ]
 }
